@@ -1,0 +1,54 @@
+{
+  "nav": {
+    "features": "Features",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "hero": {
+    "title1": "Plan, Analyze, & Launch",
+    "title2": "Your Business Smartly 🌱",
+    "description": "The top app for entrepreneurs in Saudi Arabia. Get a professional feasibility study, accurate financial analysis, and an AI-powered smart advisor in your pocket.",
+    "appStore": "Download on App Store ",
+    "googlePlay": "Get it on Google Play ⏵"
+  },
+  "features": {
+    "title": "Why Choose Nawa?",
+    "f1_title": "Smart AI Advisor 🤖",
+    "f1_desc": "Ask your advisor anything about business and get a professional, instant answer.",
+    "f2_title": "Accurate Financial Analysis 📊",
+    "f2_desc": "We provide a detailed reading of your expected expenses and profits with visual charts.",
+    "f3_title": "Ready Feasibility Study 📄",
+    "f3_desc": "Turn your idea into a comprehensive PDF report ready for investors with one click."
+  },
+  "footer": {
+    "rights": "© 2026 Nawa App. All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "back": "Back to Home",
+    "s1_title": "1. Data Collection",
+    "s1_desc": "At Nawa, we collect the data you voluntarily provide when creating an account, including email, name, and project details for financial analysis.",
+    "s2_title": "2. Data Usage",
+    "s2_desc": "Your data is used exclusively to analyze your projects and provide feasibility reports and AI recommendations.",
+    "s3_title": "3. Data Sharing",
+    "s3_desc": "We do not share your data with any external parties except essential service providers who strictly adhere to privacy standards.",
+    "s4_title": "4. Account Deletion",
+    "s4_desc": "You have full control. You can request permanent deletion of your account and all related financial data directly through the app settings."
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "lastUpdated": "Last Updated: May 2026",
+    "back": "Back to Home",
+    "s1_title": "1. Acceptance of Terms",
+    "s1_desc": "By using the Nawa app, you explicitly agree to these terms. If you disagree, please stop using the app immediately.",
+    "s2_title": "2. Disclaimer",
+    "s2_desc": "Nawa provides financial recommendations based on AI algorithms. These are educational and not binding legal or financial advice.",
+    "s3_title": "3. Subscriptions",
+    "s3_desc": "The app offers subscriptions (monthly, yearly, lifetime) processed via App Stores. Auto-renewable unless canceled 24 hours before the period ends.",
+    "s4_title": "4. Intellectual Property",
+    "s4_desc": "All intellectual property rights associated with Nawa, including design, logos, and algorithms, are exclusively ours.",
+    "s5_title": "5. Amendments",
+    "s5_desc": "We reserve the right to modify these terms at any time. Continued use constitutes acceptance."
+  }
+}
